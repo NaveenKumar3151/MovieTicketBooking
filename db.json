@@ -1,0 +1,130 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "username": "naveen3151",
+      "password": "navin111",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "username": "nikhil123",
+      "password": "nikhil111",
+      "role": "admin"
+    },
+    {
+      "username": "Hemanth",
+      "password": "123456",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "prasadk",
+      "password": "123456",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "abbbbbbbb",
+      "password": "123456",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "username": "sssss",
+      "password": "123456",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "username": "nnnnn",
+      "password": "123456",
+      "role": "admin",
+      "id": 7
+    },
+    {
+      "username": "nknknk",
+      "password": "navin111",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "username": "jvgjvhh",
+      "password": "nnnnnn",
+      "role": "user",
+      "id": 9
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "image": "/assets/images/ala.jpg",
+      "name": "Ala Vaikuntapuramulo",
+      "screen": "Screen1",
+      "language": "Telugu",
+      "type": "Action/Drama",
+      "duration": "02:45"
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/bhaagi3.jpg",
+      "name": "Baaghi3",
+      "screen": "Screen2",
+      "language": "Hindi",
+      "type": "Action",
+      "duration": "02:26"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/joker.jpg",
+      "name": "Joker",
+      "screen": "Screen3",
+      "language": "English",
+      "type": "Drama",
+      "duration": "02:12"
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/dia.jpg",
+      "name": "Dia",
+      "screen": "Screen4",
+      "language": "Kannada",
+      "type": "Drama",
+      "duration": "02:16"
+    }
+  ],
+  "students2": [
+    {
+      "image": "/assets/images/kgf2.jpg",
+      "name": "KGF Chapter2",
+      "language": "Kannada",
+      "type": "Action/Drama",
+      "date": "2020-11-17",
+      "id": 1
+    },
+    {
+      "image": "/assets/images/rrr.jpg",
+      "name": "RRR",
+      "language": "Telugu",
+      "type": "Action",
+      "date": "2021-04-18",
+      "id": 2
+    },
+    {
+      "image": "/assets/images/acharya.jpg",
+      "name": "Acharya",
+      "language": "Telugu",
+      "type": "Drama",
+      "date": "2021-07-16",
+      "id": 3
+    },
+    {
+      "image": "/assets/images/radhe.jpg",
+      "name": "Radhe",
+      "language": "Hindi",
+      "type": "Drama",
+      "date": "2020-06-29",
+      "id": 4
+    }
+  ]
+}
